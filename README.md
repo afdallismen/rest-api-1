@@ -7,7 +7,7 @@
     - [Signin](#signin): `GET /api/signin`
 - Todos
     - [Get all Todos](#get-all-todos): `GET /api/todos`
-    - [Get a Todo](#get-a-todos): `GET /api/todos/:id`
+    - [Get a Todo](#get-a-todo): `GET /api/todos/:id`
     - [Create a Todo](#create-a-todo): `POST /api/todos`
     - [Update a Todo](#update-a-todo): `PUT /api/todos/:id`
     - [Delete a Todo](#delete-a-todo): `DELETE /api/todos/:id`
